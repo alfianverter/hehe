@@ -1,1 +1,2 @@
-# hehe
+# discordbot
+Bot using heroku
